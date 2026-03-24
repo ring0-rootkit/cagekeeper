@@ -1,0 +1,16 @@
+*.iso
+.env
+**/main
+keys
+build
+*.db
+homes/
+*.o
+logs
+**/.pio
+
+manager.log
+src/ai/__pycache__/
+reports
+.cache
+diplom
